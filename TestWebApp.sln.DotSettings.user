@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4ea51f72_002D7652_002D4aa4_002Dbe98_002Dd1a867265bf1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SetterTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3BA6FC90-40FE-448F-8590-456CFF406101::net8.0::TestWebApp.Components.AdvertisingPlatforms.Tests.SetterTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3BA6FC90-40FE-448F-8590-456CFF406101::net8.0::TestWebApp.Components.AdvertisingPlatforms.Tests.SetterTests.AddPlatformLocalizationTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a12dc6f0_002D1179_002D42b9_002D93fb_002Dfcc6872a295d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetPlatformLocalizationsTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3BA6FC90-40FE-448F-8590-456CFF406101::net8.0::TestWebApp.Components.AdvertisingPlatforms.Tests.GetterTests.GetPlatformLocalizationsTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b01a335f_002D0390_002D4ca0_002Dae9f_002Dda2f91cf5e0f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetPlatformLocalizationsTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3BA6FC90-40FE-448F-8590-456CFF406101::net8.0::TestWebApp.Components.AdvertisingPlatforms.Tests.GetterTests.GetPlatformLocalizationsTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ca2d1a90_002D3700_002D4707_002D8b4a_002Dfc61c14415ae/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

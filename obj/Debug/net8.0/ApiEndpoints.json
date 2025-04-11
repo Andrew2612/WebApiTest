@@ -1,0 +1,91 @@
+[
+  {
+    "ContainingType": "TestWebApp.Implementation.Controllers.PlatformLocalizationController",
+    "Method": "LoadData",
+    "RelativePath": "PlatformLocalization",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestWebApp.Implementation.Controllers.PlatformLocalizationController",
+    "Method": "GetPlatformLocalizations",
+    "RelativePath": "PlatformLocalization",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IReadOnlyList\u00601[[TestWebApp.Components.AdvertisingPlatforms.Api.ExternalModels.PlatformLocalization, TestWebApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestWebApp.Implementation.Controllers.PlatformLocalizationController",
+    "Method": "AddPlatformLocalization",
+    "RelativePath": "PlatformLocalization",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "platformName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "availableLocations",
+        "Type": "System.String[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestWebApp.Implementation.Controllers.PlatformLocalizationController",
+    "Method": "GetAvailablePlatforms",
+    "RelativePath": "PlatformLocalization/{location}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "location",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IReadOnlyList\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
